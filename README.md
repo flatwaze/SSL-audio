@@ -1,4 +1,6 @@
 # SSL-audio
+## Details on code and key results are presented in the SSL_audio_main.ipynb
+
 A PyTorch implementation comparing Contrastive Loss vs Barlow Twins for SSL audio classification using a hybrid 1D/2D ResNet encoder.
 
 Methods
